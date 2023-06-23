@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#newsHeading {
+  text-align: center;
+  color: #333;
+}
+
+#newsContainer {
+  margin: 20px auto;
+  width: 80%;
+  max-width: 600px;
+  border: 1px solid #999;
+  padding: 20px;
+}
+
+#newsContent {
+  line-height: 1.5;
+}
+
+#generateButton {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
